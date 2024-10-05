@@ -1,0 +1,9 @@
+C:\Users\Seb\Documents\GitHub\Little-Guys-Inside-Your-Computer\Server\Little Guys In Your Computer Server\bin\Debug\Little Guys In Your Computer Server.exe.config
+C:\Users\Seb\Documents\GitHub\Little-Guys-Inside-Your-Computer\Server\Little Guys In Your Computer Server\bin\Debug\Little Guys In Your Computer Server.exe
+C:\Users\Seb\Documents\GitHub\Little-Guys-Inside-Your-Computer\Server\Little Guys In Your Computer Server\bin\Debug\Little Guys In Your Computer Server.pdb
+C:\Users\Seb\Documents\GitHub\Little-Guys-Inside-Your-Computer\Server\Little Guys In Your Computer Server\obj\Debug\Little Guys In Your Computer Server.csproj.AssemblyReference.cache
+C:\Users\Seb\Documents\GitHub\Little-Guys-Inside-Your-Computer\Server\Little Guys In Your Computer Server\obj\Debug\Little_Guys_In_Your_Computer_Server.Properties.Resources.resources
+C:\Users\Seb\Documents\GitHub\Little-Guys-Inside-Your-Computer\Server\Little Guys In Your Computer Server\obj\Debug\Little Guys In Your Computer Server.csproj.GenerateResource.cache
+C:\Users\Seb\Documents\GitHub\Little-Guys-Inside-Your-Computer\Server\Little Guys In Your Computer Server\obj\Debug\Little Guys In Your Computer Server.csproj.CoreCompileInputs.cache
+C:\Users\Seb\Documents\GitHub\Little-Guys-Inside-Your-Computer\Server\Little Guys In Your Computer Server\obj\Debug\Little Guys In Your Computer Server.exe
+C:\Users\Seb\Documents\GitHub\Little-Guys-Inside-Your-Computer\Server\Little Guys In Your Computer Server\obj\Debug\Little Guys In Your Computer Server.pdb
