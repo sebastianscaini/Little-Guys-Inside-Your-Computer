@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Hardware.Info</id>
+    <version>101.0.0</version>
+    <authors>Jinjinov</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/Jinjinov/Hardware.Info</projectUrl>
+    <description>Battery, BIOS, CPU - processor, storage drive, keyboard, RAM - memory, monitor, motherboard, mouse, NIC - network adapter, printer, sound card - audio card, graphics card - video card. Hardware.Info is a .NET Standard 2.0 library and uses WMI on Windows, /dev, /proc, /sys on Linux and sysctl, system_profiler on macOS.</description>
+    <copyright>Copyright (c) Jinjinov 2022</copyright>
+    <tags>Computer Device Hardware Info Information NET Standard Windows Linux macOS</tags>
+    <repository type="git" url="https://github.com/Jinjinov/Hardware.Info" commit="cb4a549bb47870a90c8d3d6c92b6f80d91992764" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Win32.Registry" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Diagnostics.PerformanceCounter" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Management" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
