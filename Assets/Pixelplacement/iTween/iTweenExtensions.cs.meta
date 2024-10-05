@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97289223feafd4d0e820008b1d716b40
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 18391
+  packageName: iTween Native Extension
+  packageVersion: 1.0.4
+  assetPath: Assets/Pixelplacement/iTween/iTweenExtensions.cs
+  uploadId: 305837
