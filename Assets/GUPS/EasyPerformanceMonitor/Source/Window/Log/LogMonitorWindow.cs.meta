@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1fb17a3619d36bc4a8df4c50e9e15f65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258079
+  packageName: EasyPerformanceMonitor - 2024
+  packageVersion: 2024.2
+  assetPath: Assets/GUPS/EasyPerformanceMonitor/Source/Window/Log/LogMonitorWindow.cs
+  uploadId: 655866
